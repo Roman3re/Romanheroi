@@ -1,0 +1,52 @@
+p{
+    font-style: italic;
+    
+}
+h1{
+    font-size: 48px; 
+}
+div{
+    width: 1024px;
+    margin: auto;
+    font-size: 18px;
+}
+#textp{ 
+    font-weight: bold;
+}
+.borderred {
+    border: solid red; border-radius: 10px ;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+    margin-right: 800px;
+}
+.boldtextforp {
+    font-weight: bold;
+}
+.spisok{
+    list-style-type: none;
+}
+#tr31{
+    background-image: url("./images.jpg");
+    
+}
+.table2 {
+    width: 30px;
+    height: 20px;
+    background-color: grey;
+    border: solid 2px black;
+}
+td, tr{ 
+        padding: 50px 75px;
+}
+.tr3 {
+    border: solid 8px green;
+}
+.tr2{
+    border: 0px;
+}
+#tr1{
+    border-top: dashed 5px blue;
+    border-left: dashed 2px orange;
+    border-right: double 2px yellow;
+    border-bottom: solid 5px red ;
+}
